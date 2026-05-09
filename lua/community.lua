@@ -24,6 +24,11 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.cmake" },
 
+  { import = "astrocommunity.indent.indent-blankline-nvim" },
+  { import = "astrocommunity.indent.mini-indentscope" },
+
+  { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
+  { import = "astrocommunity.utility.hover-nvim" },
   -- { import = "astrocommunity.code-runner.vim-slime" },
 
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
